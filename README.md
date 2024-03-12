@@ -2,7 +2,7 @@
 A movie recommendation system based on basics of matrices and searching (No Artificial Intelligence used)
 
 ### Data Used - 
-   - 25m repository of data on movies and their ratings
+   - 25m repository of data on _*movies and their ratings*_
 
 ### Concept Used - 
 
