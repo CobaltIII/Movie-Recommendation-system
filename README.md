@@ -4,6 +4,8 @@ A movie recommendation system based on basics of matrices and searching (No Arti
 ### Data Used - 
    - 25m repository of data on _*movies and their ratings*_
 
+     [The link to the data we need, specifically movies.csv and ratings.csv](https://files.grouplens.org/datasets/movielens/ml-25m.zip)
+
 ### Concept Used - 
 
 Search a movie and if that movie is found it finds movies that others liked based on if they liked your searched movie or not
