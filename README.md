@@ -13,3 +13,8 @@ Search a movie and if that movie is found it finds movies that others liked base
 We start with searching for a movie in the repository and then getting its unique movieId
 We then search for all people who liked this movie (rated it a 4 or above out of 5)
 We then get all the movies that these people liked and select the most niche ones pertaining to our searched movie and show the results.
+
+### Libraries Needed - 
+   - pandas
+   - numpy
+   - scikit learn  ( [scikit learn download](https://scikit-learn.org/stable/install.html) )
